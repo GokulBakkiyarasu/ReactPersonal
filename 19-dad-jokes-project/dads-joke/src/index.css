@@ -1,0 +1,10 @@
+body,
+html {
+  height: 100vh;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body {
+  overflow: hidden;
+  background: linear-gradient(135deg, #EF5A6F 0%, #EF5A6F 50%, #FFF1DB 50%, #FFF1DB 100%);
+}
