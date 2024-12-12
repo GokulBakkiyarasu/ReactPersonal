@@ -1,0 +1,7 @@
+.rounded-circle{
+    filter: grayscale();
+}
+
+.Dog:hover img{
+    filter: none;
+}
