@@ -1,0 +1,17 @@
+.Chips{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.Chips button{
+    background-color: lightcoral;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Chips button:hover{
+    background-color: red;
+    color: white;
+}

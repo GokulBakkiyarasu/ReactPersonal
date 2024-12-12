@@ -1,0 +1,19 @@
+.Sardines{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://media.giphy.com/media/tVk4w6EZ7eGNq/giphy.gif);
+    background-size: cover;
+    /* Ensures the image covers the entire background */
+    background-position: center;
+    /* Centers the image */
+     background-repeat: no-repeat;
+    /* Prevents the image from repeating */
+    height: 100vh;
+    width: 100%;
+}
+
+.Sardines h4{
+    display: inline;
+    text-align: center;
+}
